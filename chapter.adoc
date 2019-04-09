@@ -1,0 +1,6 @@
+== Diagram
+[ditaa, diagram, svg, align=center]
+----
++-+
++-+
+----

@@ -1,0 +1,8 @@
+= Test
+:doctype: book
+:imagesdir: images
+:toc2:
+:numbered:
+:experimental:
+
+include::chapter.adoc[]
